@@ -9,5 +9,14 @@ private class Factura implements IFactura{
 		
 	}
 	public void cambiarEstado(Estados estado) {
+		
+		public float getTotal() {
 
 	}
+
+		public float getCantidadIva() {
+
+	}
+	}
+
+	
