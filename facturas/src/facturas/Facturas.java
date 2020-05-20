@@ -1,6 +1,6 @@
 private class Factura implements IFactura{
 
-	public int num;
+	private int num;
 	public float base;
 	public flota tipoIva;
 	protected Estados estado;
