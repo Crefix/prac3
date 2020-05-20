@@ -1,5 +1,5 @@
 package facturas;
 
-//public enum Estados {
+protected enum Estados {
 	Aprobada,Pendiente,Cobrada;
 }
